@@ -2,6 +2,8 @@
 
 A curated collection of tools, models, datasets, and papers in **Computer Vision** and **Natural Language Processing (NLP)**.
 
+Note: Date presents resource last updated date, or the retrieval date if the first one was not found.
+
 ## 🧭 Table of Contents
 
 - [Data Acquisition](#data-acquisition)
@@ -90,6 +92,12 @@ A curated collection of tools, models, datasets, and papers in **Computer Vision
 | [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | Toolkit for speech enhancement, separation, and target speaker extraction. |
 | [CosyVoice 2 (Alibaba)](https://funaudiollm.github.io/cosyvoice2/) | Scalable streaming speech synthesis using LLMs. |
 | [EmoBox](https://github.com/emo-box/EmoBox) | Multilingual toolkit for speech emotion recognition & benchmarking. |
+
+### Text
+
+| Tool | Description | Date |
+|------|-------------|------|
+| PP-OCRv5 (Baidu) ](https://huggingface.co/collections/PaddlePaddle/pp-ocrv5-684a5356aef5b4b1d7b85e4b) | Text recognition, supporting Simplified Chinese, Chinese Pinyin, Traditional Chinese, English, and Japanese. | 📅 2025-07-22 |
 
 ---
 
