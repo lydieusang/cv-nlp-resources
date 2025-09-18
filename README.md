@@ -1,6 +1,6 @@
 # 📚 Computer Vision Natural Language Processing Resources
 
-A curated collection of tools, models, datasets, and papers in **Computer Vision** and **Natural Language Processing (NLP)**.
+A curated collection of tools, models, datasets, and papers in Computer Vision and Natural Language Processing (NLP).
 
 Note: Date presents resource last updated date, or the retrieval date if the first one was not found.
 
@@ -13,7 +13,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
   - [Object Detection](#object-detection)
   - [Image Recognition](#image-recognition)
   - [3D Vision](#3d-vision)
-- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+- [Natural Language Processing](#natural-language-processing)
   - [Speech](#speech)
   - [Text](#text)
   - [Large Language Models (LLM)](#large-language-models-llm)
@@ -84,21 +84,17 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 
 ---
 
-## 🧠 Natural Language Processing (NLP)
+## 🧠 Natural Language Processing
 
-### Speech
-
-| Tool | Description |
-|------|-------------|
-| [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | Toolkit for speech enhancement, separation, and target speaker extraction. |
-| [CosyVoice 2 (Alibaba)](https://funaudiollm.github.io/cosyvoice2/) | Scalable streaming speech synthesis using LLMs. |
-| [EmoBox](https://github.com/emo-box/EmoBox) | Multilingual toolkit for speech emotion recognition & benchmarking. |
-
-### Text
+### Speech & Text
 
 | Tool | Description | Date |
 |------|-------------|------|
+| [NVidia NeMo ASR](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/asr/intro.html) | Example of [Discord Transcription Bot](https://github.com/runfish5/tiny-tutorials/tree/main/discord-transcription-bot) using Parakeet TDT 0.6B model |
 | [PP-OCRv5 (Baidu)](https://huggingface.co/collections/PaddlePaddle/pp-ocrv5-684a5356aef5b4b1d7b85e4b) | Text recognition, supporting Simplified Chinese, Chinese Pinyin, Traditional Chinese, English, and Japanese. | 📅 2025-07-22 |
+| [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | Toolkit for speech enhancement, separation, and target speaker extraction. |
+| [CosyVoice 2 (Alibaba)](https://funaudiollm.github.io/cosyvoice2/) | Scalable streaming speech synthesis using LLMs. |
+| [EmoBox](https://github.com/emo-box/EmoBox) | Multilingual toolkit for speech emotion recognition & benchmarking. |
 
 ---
 
@@ -114,12 +110,12 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 
 ### Vision-Language Models
 
-| Project | Description | Notes |
-|---------|-------------|---------|
-| LLaMA-3.2-Vision (Meta) | Run via Colab / Ollama. | [Open in Colab](https://colab.research.google.com/drive/1R6iLjc2LZyoIrRISKy9mNavO8UxjqGaZ?usp=drive_link) ✅ |
-| PaliGemma 2 Mix | Models on HuggingFace. | [HuggingFace](https://huggingface.co/blog/paligemma2mix) |
-| Florence-VL (Microsoft) | Vision-language model with depth-breadth fusion. | [GitHub](https://github.com/JiuhaiChen/CVPR2025-Florence-VL) |
-| Roboflow Finetunes | Finetuning notebooks for VLMs. | [Github](https://github.com/roboflow/notebooks) |
+| Project | Description |
+|---------|-------------|
+| Finetune Gemma 3n for Medical VQA on ROCOv2 (OpenCV) | Notebook on [Github](https://github.com/spmallick/learnopencv/tree/master/finetuning-gemma3n)
+| LLaMA-3.2-Vision (Meta) | Run via Colab / Ollama [Open in Colab](https://colab.research.google.com/drive/1R6iLjc2LZyoIrRISKy9mNavO8UxjqGaZ?usp=drive_link) ✅ |
+| Florence-VL (Microsoft) | Vision-language model with depth-breadth fusion. [GitHub](https://github.com/JiuhaiChen/CVPR2025-Florence-VL) |
+| Roboflow Finetunes | VLM finetuning notebooks on [Github](https://github.com/roboflow/notebooks) |
 
 ---
 
