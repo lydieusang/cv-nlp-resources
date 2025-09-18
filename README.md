@@ -15,6 +15,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
   - [3D Vision](#3d-vision)
 - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
   - [Speech](#speech)
+  - [Text](#text)
   - [Large Language Models (LLM)](#large-language-models-llm)
   - [Vision-Language Models](#vision-language-models)
   - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
@@ -97,7 +98,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 
 | Tool | Description | Date |
 |------|-------------|------|
-| PP-OCRv5 (Baidu) ](https://huggingface.co/collections/PaddlePaddle/pp-ocrv5-684a5356aef5b4b1d7b85e4b) | Text recognition, supporting Simplified Chinese, Chinese Pinyin, Traditional Chinese, English, and Japanese. | 📅 2025-07-22 |
+| [PP-OCRv5 (Baidu)](https://huggingface.co/collections/PaddlePaddle/pp-ocrv5-684a5356aef5b4b1d7b85e4b) | Text recognition, supporting Simplified Chinese, Chinese Pinyin, Traditional Chinese, English, and Japanese. | 📅 2025-07-22 |
 
 ---
 
