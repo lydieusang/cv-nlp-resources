@@ -13,7 +13,6 @@ A curated collection of tools, models, datasets, and papers in **Computer Vision
   - [3D Vision](#3d-vision)
 - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
   - [Speech](#speech)
-  - [Text](#text)
   - [Large Language Models (LLM)](#large-language-models-llm)
   - [Vision-Language Models](#vision-language-models)
   - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
@@ -35,6 +34,7 @@ A curated collection of tools, models, datasets, and papers in **Computer Vision
 |------|-------------|
 | [Firecrawl](https://github.com/mendableai/firecrawl) | API service for crawling URLs and converting content into clean markdown or structured data. |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | Asynchronous web crawling & data extraction framework. |
+| [Wikipedia Dump (WikiExtractor)](https://github.com/attardi/wikiextractor) | Raw Wikipedia data extraction tool. |
 
 ---
 
@@ -93,14 +93,6 @@ A curated collection of tools, models, datasets, and papers in **Computer Vision
 
 ---
 
-### Text
-
-| Tool | Description |
-|------|-------------|
-| [Training BERT with Custom Data](https://mccormickml.com/2020/07/29/using-bert-for-text-classification/) | Step-by-step guide to fine-tuning BERT for text classification. |
-
----
-
 ### Large Language Models (LLM)
 
 | Resource | Description |
@@ -136,7 +128,6 @@ A curated collection of tools, models, datasets, and papers in **Computer Vision
 |---------|-------------|
 | [Common Crawl](https://commoncrawl.org/) | Massive web data archive used for language model training. |
 | [The Pile (EleutherAI)](https://github.com/EleutherAI/the-pile) | ~800 GB dataset curated for large-scale LM training. |
-| [Wikipedia Dump (WikiExtractor)](https://github.com/attardi/wikiextractor) | Raw Wikipedia data extraction tool. |
 | [MedDec](https://github.com/CLU-UML/MedDec) | Medical decision extraction dataset ([paper](https://arxiv.org/pdf/2408.12980v1)). |
 
 ---
