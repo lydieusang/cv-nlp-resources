@@ -1,4 +1,4 @@
-# 📚 Computer Vision Natural Language Processing Resources
+# 📚 Computer Vision & Natural Language Processing Resources
 
 A curated collection of tools, models, datasets, and papers in Computer Vision and Natural Language Processing (NLP).
 
