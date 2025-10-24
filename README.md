@@ -94,6 +94,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 | [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | Toolkit for speech enhancement, separation, and target speaker extraction. |
 | [CosyVoice 2 (Alibaba)](https://funaudiollm.github.io/cosyvoice2/) | Scalable streaming speech synthesis using LLMs. |
 | [EmoBox](https://github.com/emo-box/EmoBox) | Multilingual toolkit for speech emotion recognition & benchmarking. |
+| [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1107+ languages. |
 
 ---
 
@@ -140,6 +141,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 
 | Tool | Description |
 |------|-------------|
+| [open-notebook](https://github.com/lfnovo/open-notebook) | A private, multi-model, 100% local, full-featured alternative to Google Notebook LM. |
 | [GGUF My Repo](https://huggingface.co/spaces/ggml-org/gguf-my-repo) | Tool for model quantization. |
 | [PydanticAI](https://ai.pydantic.dev/) | Agent framework integrating Pydantic with LLMs. |
 | [Weights & Biases](https://wandb.com) | Experiment tracking and model management platform. |
