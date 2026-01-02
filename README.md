@@ -141,6 +141,7 @@ Note: Date presents resource last updated date, or the retrieval date if the fir
 
 | Tool | Description |
 |------|-------------|
+| [DeepCode](https://github.com/HKUDS/DeepCode) | Open Agentic Coding. |
 | GenAI Providers | [Kei AI](https://kie.ai/), [Fal AI](https://fal.ai/) |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Design and execute advanced stable diffusion pipelines using a graph-based interface. |
 | [open-notebook](https://github.com/lfnovo/open-notebook) | A private, multi-model, 100% local, full-featured alternative to Google Notebook LM. |
